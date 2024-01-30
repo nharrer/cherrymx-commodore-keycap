@@ -1,4 +1,4 @@
-# Keycap with Commodore Logo with Cherry MX Stem in OEM Profile
+# Keycap with Commodore Logo and Cherry MX Stem in OEM Profile
 
 The `.3mf` files are for Prusa Slicer and an Artillery Sidewinder X2.
 
