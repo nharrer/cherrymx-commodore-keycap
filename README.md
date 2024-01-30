@@ -8,10 +8,9 @@ I printed them with Prusa Slicer on an Artillery Sidewinder X2. A 0.4mm nozzle w
 
 This is a key fits perfectly on a Razer Blackwidow keyboard. You can customize and create your own key with OpenSCAD. Check out the [README](openscad/readme.md).
 
-![Red Key](images/red_key.jpg | width=512)
-
-![Black Key Closeup](images/black_key_closeup.jpg | width=512)
-
-![Black Key](images/black_key.jpg | width=512)
-
-![Slicer](images/slicer.png | width=512)
+<p float="left">
+  <img src="images/red_key.jpg" title="Red Key" width="400">
+  <img src="images/black_key_closeup.jpg" title="Black Key Closeup" width="400">
+  <img src="images/black_key.jpg" title="Black Key" width="400">
+  <img src="images/slicer.png" title="Slicer" width="400">
+</p>
