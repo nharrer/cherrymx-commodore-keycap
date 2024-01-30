@@ -11,5 +11,5 @@
 ### Notes
 
 - You might want to adjust `inlay_offset`, which is the space between the inlay and the key body. This might depend a lot upon your printer.
-- `inlay_offset` only changes the size of the inlay. So if it is to tight or loose, you only need to export and print the inlay. The body always stays the same.
-- Change the parameters inside `c64key()`, if you want to create a different kind of keycap. Consult the [KeyV2](https://github.com/rsheldiii/KeyV2) repository on how to do that. The parameters I chose are for an OEM Profile key of row 5 (for the ESC key) with a Cherry MX stem with a recessed stem. The key fits perfectly into a Razer Blackwidow keyboard.
+- `inlay_offset` only changes the size of the inlay. So if it is too tight or loose, you only need to export and print the inlay again. The body always stays the same.
+- Change the parameters inside `c64key()`, if you want to create a different kind of keycap. Consult the [KeyV2](https://github.com/rsheldiii/KeyV2) repository on how to do that. The parameters I chose are for an OEM Profile key of row 5 (for the ESC key) with a Cherry MX stem with a recessed stem. The key fits perfectly into my Razer Blackwidow keyboard.
