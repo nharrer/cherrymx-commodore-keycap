@@ -6,7 +6,7 @@ The `.stl` files are in the [stl](stl) folder.
 
 I printed them using Prusa Slicer on an Artillery Sidewinder X2 with a 0.4mm nozzle. I believe a finer nozzle would yield better results. The inlay was printed with a 0.08mm layer height, while the key body has a variable layer height (0.08mm at the top part where the logo is and 0.2mm for the rest).
 
-This key fits perfectly on a Razer Blackwidow keyboard. You can customize and create your own key with OpenSCAD. Check out the [README](openscad/README.md).
+This key fits perfectly on a Razer Blackwidow keyboard. You can customize and create your own key with OpenSCAD. Check out the [openscad](openscad/) folder.
 
 <p float="left">
   <img src="images/red_key.jpg" title="Red Key" width="400">
